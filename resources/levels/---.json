@@ -1,0 +1,56 @@
+{
+  "size": [10, 10],
+  "levelLightning": {
+    "warningLights": [[0,0]],
+    "destroyedLights": [[0, 1]],
+    "normalLights": [[1, 1]]
+  },
+  "levelBackground": [[[0, 0], [10, 10], "FLOOR"]],
+  "level": {
+    "1": {
+      "0/0": [["wallCorner", "NONE"]],
+      "0/1": [["wall", "NONE"]],
+      "0/2": [["wall", "NONE"]],
+      "0/3": [["wall", "NONE"]],
+      "0/4": [["wall", "NONE"]],
+      "0/5": [["wall", "NONE"]],
+      "0/6": [["wall", "NONE"]],
+      "0/7": [["wall", "NONE"]],
+      "0/8": [["wall", "NONE"]],
+      "0/9": [["wallInner", "TOP"]],
+      "1/0": [["wall", "TOP"]],
+      "1/9": [["wall", "DOWN"]],
+      "2/0": [["wall", "TOP"]],
+      "2/9": [["wall", "DOWN"]],
+      "3/0": [["wall", "TOP"]],
+      "3/9": [["wall", "DOWN"]],
+      "4/0": [["wall", "TOP"]],
+      "4/9": [["wall", "DOWN"]],
+      "5/0": [["wall", "TOP"]],
+      "5/9": [["wall", "DOWN"]],
+      "6/0": [["wall", "TOP"]],
+      "6/9": [["wall", "DOWN"]],
+      "7/0": [["wall", "TOP"]],
+      "7/9": [["wall", "DOWN"]],
+      "8/0": [["wall", "TOP"]],
+      "8/9": [["wall", "DOWN"]],
+      "9/0": [["wallCorner", "TOP"]],
+      "9/1": [["wall", "LEFT"]],
+      "9/2": [["wall", "LEFT"]],
+      "9/3": [["wall", "LEFT"]],
+      "9/4": [["wall", "LEFT"]],
+      "9/5": [["wall", "LEFT"]],
+      "9/6": [["wall", "LEFT"]],
+      "9/7": [["wall", "LEFT"]],
+      "9/8": [["wall", "LEFT"]],
+      "9/9": [["wallCorner", "DOWN"]]
+    }
+  },
+  "player": {
+    "pos": [0, 0],
+    "inventory": [],
+    "oxygen": 0,
+    "health": 100,
+    "costumeUsing": "None"
+  }
+}

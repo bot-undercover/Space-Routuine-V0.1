@@ -1,0 +1,5 @@
+{
+  "TYPE": "Sprite",
+  "MANAGER": "None",
+  "TEXTURES": ["./resources/textures/floor.png"],
+}
